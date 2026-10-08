@@ -1,3 +1,7 @@
+# Name : 曾聖皓<br>
+# SID : C113181119<br>
+# EX04
+<HR>
 <?php
 for ($i = 1 ; $i <= 10 ; $i++) {
     print "|".$i;
