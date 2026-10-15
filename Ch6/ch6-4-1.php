@@ -1,5 +1,8 @@
+# Name : 曾聖皓<br>
+# SID : C113181119<br>
+# EX05
+<HR>
 <?php
-
 function callFunc1(Closure $closure) 
 {
     $closure();

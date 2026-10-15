@@ -1,3 +1,7 @@
+# Name : 曾聖皓<br>
+# SID : C113181119<br>
+# EX06
+<HR>
 <?php
 
 $weight = 75;
