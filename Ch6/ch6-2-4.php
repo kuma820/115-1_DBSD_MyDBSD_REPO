@@ -1,5 +1,11 @@
 
 <?php
+
+function printHeader() {
+    echo "<h3>STD: C113181119</h3>";
+    echo "<h3>Name: Kuma</h3>";
+    echo "<h3>EX03<h3/>";
+}
 function volume($length, $width=10, $height=15) 
 {
 
