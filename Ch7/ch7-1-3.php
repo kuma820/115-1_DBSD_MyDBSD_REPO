@@ -1,6 +1,8 @@
+# Name : 曾聖皓<br>
+# SID : C113181119<br>
+# EX01
+<HR>
 <?php
-
-
 
 $scores = array(22, 16, 30, 24) ;
 $total = 0;

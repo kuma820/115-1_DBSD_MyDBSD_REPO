@@ -1,5 +1,6 @@
 <?php 
 // 匯率換算函數
+print "PHP與MySQL網頁設計EX1<br/>";
 function rateExchange($amount, $rate) {
    $result = $amount * $rate;
    return $result;
