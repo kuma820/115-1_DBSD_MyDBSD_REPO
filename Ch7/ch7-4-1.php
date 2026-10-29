@@ -1,4 +1,9 @@
 <?php
+echo "<HR>";
+echo "SID: C113181119<br/>";
+echo "Name: 曾聖皓<br/>";
+echo "EX01<br/>";
+echo "<HR>";
 
 $str1 = "PHP and MySQL Web Programming"; // 字串變數
 $str2 = " PHP與MySQL網頁設計範例教本 ";
