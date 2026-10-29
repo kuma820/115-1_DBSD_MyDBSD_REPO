@@ -6,3 +6,4 @@ echo "EX02<br/>";
 echo "<HR>";
 
 header("Location: ch8-1-2.php");
+exit() ;
